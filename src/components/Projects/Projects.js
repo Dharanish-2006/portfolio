@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import cook from "../../Assets/Projects/cook.png";
+import cook from "../../Assets/Projects/cook.jpg";
 import ams from "../../Assets/Projects/ams.jpg";
 import CollabX from "../../Assets/Projects/collabX.png";
 
