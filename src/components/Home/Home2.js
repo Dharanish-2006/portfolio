@@ -90,7 +90,7 @@ function Home2() {
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
-                  <AiFilllLinkedin/>
+                  <AiFillLinkedin/>
                 </a>
               </li>
             </ul>
