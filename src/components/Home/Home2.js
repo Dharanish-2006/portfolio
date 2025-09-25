@@ -5,6 +5,7 @@ import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
   AiFillInstagram,
+  AiFillLinkedin,
 } from "react-icons/ai";
 
 function Home2() {
@@ -79,6 +80,17 @@ function Home2() {
                   className="icon-colour home-social-icons"
                 >
                   <AiFillInstagram />
+                </a>
+              </li>
+              
+              <li className="social-icons">
+                <a
+                  href="https://www.linkedin.com/in/dharanishwar-s/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour home-social-icons"
+                >
+                  <AiFilllLinkedin/>
                 </a>
               </li>
             </ul>
