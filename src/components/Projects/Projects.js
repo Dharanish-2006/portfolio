@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import cook from "../../Assets/Projects/cook.jpg";
 import ams from "../../Assets/Projects/ams.jpg";
 import CollabX from "../../Assets/Projects/collabX.png";
+import ecomm from "../../Assets/Projects/e-comm.png";
 
 function Projects() {
   return (
@@ -18,6 +19,18 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ecomm}
+              isBlog={false}
+              title="E-commerce Website"
+              description="An complete E-commerce platform Built using Django "
+              ghLink="https://github.com/Dharanish-2006/CollabX"
+              demoLink="https://chat-app-v3-stb8.onrender.com/"
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={CollabX}
