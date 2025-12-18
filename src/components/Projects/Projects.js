@@ -26,8 +26,8 @@ function Projects() {
               isBlog={false}
               title="E-commerce Website"
               description="An complete E-commerce platform Built using Django "
-              ghLink="https://github.com/Dharanish-2006/CollabX"
-              demoLink="https://chat-app-v3-stb8.onrender.com/"
+              ghLink="https://github.com/Dharanish-2006/e-comm"
+              demoLink="https://e-comm-ivory-six.vercel.app/"
             />
           </Col>
 
